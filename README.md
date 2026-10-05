@@ -1,7 +1,3 @@
-# Library Management System
-
-## Elevate Labs Java Developer Internship - Task 3
-
 A simple Library Management System developed using Java and Object-Oriented Programming concepts.
 
 ## Features
